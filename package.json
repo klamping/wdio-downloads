@@ -1,0 +1,21 @@
+{
+  "name": "wdio-stable",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "wdio"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "chai-webdriverio": "^0.4.3",
+    "wdio-dot-reporter": "0.0.10",
+    "wdio-mocha-framework": "^0.6.3",
+    "wdio-selenium-standalone-service": "0.0.10",
+    "webdriverio": "^4.14.0"
+  },
+  "devDependencies": {}
+}
